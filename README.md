@@ -103,3 +103,8 @@
 
 ```
 
+### you can use this arch diagram for higly available and scaleable
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/722a2690-4b9b-4b86-b4a5-149f317d7dfc" />
+
