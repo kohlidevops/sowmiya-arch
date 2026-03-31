@@ -42,5 +42,11 @@
                              |
                        Email / Alert
 ```
+### You can refer this modern image - for simple arch diagram
 
+
+
+<img width="1121" height="1402" alt="image" src="https://github.com/user-attachments/assets/eea80eee-fc8b-4505-b5dd-f3f8c87ad1ad" />
+
+---
 ## Highly Available & Scalable Architecture
